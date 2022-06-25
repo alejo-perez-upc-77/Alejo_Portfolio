@@ -27,12 +27,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/ppca/</loc>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-1/</loc>
     <lastmod>2022-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-1/</loc>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/ppca/</loc>
     <lastmod>2022-06-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -53,22 +53,22 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/bot-recognition/</loc>
-    <lastmod>2022-02-20T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/nlp/</loc>
-    <lastmod>2022-02-20T10:58:08-04:00</lastmod>
+    <lastmod>2022-01-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-4/</loc>
-    <lastmod>2022-02-20T10:58:08-04:00</lastmod>
+    <lastmod>2022-01-20T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/nlp/</loc>
+    <lastmod>2022-01-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/text-mining/</loc>
-    <lastmod>2022-02-20T10:58:08-04:00</lastmod>
+    <lastmod>2022-01-20T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -78,6 +78,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/generative-adversarial-networks/</loc>
+    <lastmod>2020-03-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-2/</loc>
     <lastmod>2020-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -92,12 +97,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-2/</loc>
-    <lastmod>2020-03-10T11:00:59-04:00</lastmod>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/brain-computer-interface/</loc>
+    <lastmod>2019-09-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/brain-computer-interface/</loc>
+    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-3/</loc>
     <lastmod>2019-09-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -113,11 +118,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/tags/neuroscience/</loc>
-    <lastmod>2019-09-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://alejo-perez-upc-77.github.io/Alejo_Portfolio/post/project-3/</loc>
     <lastmod>2019-09-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
